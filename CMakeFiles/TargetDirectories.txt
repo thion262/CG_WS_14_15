@@ -1,0 +1,3 @@
+C:/Users/thion/Downloads/raytracing/raytracing/CMakeFiles/ALL_BUILD.dir
+C:/Users/thion/Downloads/raytracing/raytracing/CMakeFiles/ZERO_CHECK.dir
+C:/Users/thion/Downloads/raytracing/raytracing/CMakeFiles/raytracingBIN.dir
